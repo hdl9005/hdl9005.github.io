@@ -5,3 +5,9 @@ I like to swim, play tennis, and play video games. I attend Lake Region High Sch
 changed to Lee. 
 
 ![chicken](https://www.cookitrealgood.com/wp-content/uploads/2019/09/IMG_9844-2.jpg)
+
+
+
+- I want to learn how to configure projects in a group
+
+http://www.se.rit.edu/~swen-101/00/index.html
